@@ -31,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/colyseus/colyseus.git"
+    "url": "git://github.com/glitchland/colyseus"
   },
   "homepage": "https://colyseus.io/",
   "license": "MIT",
@@ -63,7 +63,7 @@
     "@types/sinon": "^4.3.3",
     "all-contributors-cli": "^5.4.0",
     "benchmark": "^2.1.1",
-    "colyseus.js": "^0.13.0-alpha.10",
+    "colyseus.js": "glitchland/colyseus.js#master",
     "cors": "^2.8.5",
     "express": "^4.16.2",
     "httpie": "^1.1.2",
